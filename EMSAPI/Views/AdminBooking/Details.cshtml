@@ -1,0 +1,50 @@
+﻿@model EMSAPI.Models.Booking
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Booking</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.USERID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.USERID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BOOKINGDATE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BOOKINGDATE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PAYMENTSTATUS)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PAYMENTSTATUS)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.BOOKINGID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

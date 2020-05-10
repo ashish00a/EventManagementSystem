@@ -1,0 +1,248 @@
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\EMSAPI.dll.config
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\EMSAPI.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\EMSAPI.pdb
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\csc.exe
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\csc.exe.config
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\csc.rsp
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\csi.exe
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\csi.exe.config
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\csi.rsp
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.AppContext.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Console.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.IO.Compression.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Net.Http.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Net.Sockets.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.ValueTuple.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Xml.XPath.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\vbc.exe
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\vbc.exe.config
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\vbc.rsp
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\VBCSCompiler.exe
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Antlr3.Runtime.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\EntityFramework.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\EntityFramework.SqlServer.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Newtonsoft.Json.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Owin.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Net.Http.Formatting.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Helpers.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Http.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Http.Owin.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Http.WebHost.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Mvc.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Optimization.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Razor.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.WebPages.Deployment.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.WebPages.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.WebPages.Razor.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\WebGrease.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Newtonsoft.Json.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Net.Http.Formatting.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Helpers.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Http.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Http.WebHost.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Mvc.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Optimization.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Razor.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.WebPages.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.WebPages.Deployment.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.WebPages.Razor.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Antlr3.Runtime.pdb
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\EntityFramework.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\EntityFramework.SqlServer.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\System.Web.Http.Owin.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.csproj.CoreCompileInputs.cache
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.csproj.CopyComplete
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.dll
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.pdb
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.csprojAssemblyReference.cache
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.initialMig.resources
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.csproj.GenerateResource.cache
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.eventbookingtable.resources
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.fkbokingstable1.resources
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.insertuservalues.resources
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.updatedmodels.resources
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.updatedeventmodel.resources
+D:\hexaware\visualstudio\packages\EMSPROJECT\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.Reportadded.resources
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\EMSAPI.dll.config
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\EMSAPI.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\EMSAPI.pdb
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\csc.exe
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\csc.exe.config
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\csc.rsp
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\csi.exe
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\csi.exe.config
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\csi.rsp
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.AppContext.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Console.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.IO.Compression.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Net.Http.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Net.Sockets.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.ValueTuple.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\vbc.exe
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\vbc.exe.config
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\vbc.rsp
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\VBCSCompiler.exe
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Antlr3.Runtime.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\EntityFramework.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\EntityFramework.SqlServer.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Newtonsoft.Json.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Owin.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Net.Http.Formatting.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Helpers.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Http.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Http.Owin.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Http.WebHost.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Mvc.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Optimization.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Razor.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.WebPages.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.WebPages.Razor.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\WebGrease.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\EntityFramework.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\EntityFramework.SqlServer.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Newtonsoft.Json.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Net.Http.Formatting.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Helpers.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Http.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Http.WebHost.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Mvc.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Optimization.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Razor.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.WebPages.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.WebPages.Razor.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Antlr3.Runtime.pdb
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\System.Web.Http.Owin.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.csprojAssemblyReference.cache
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.initialMig.resources
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.eventbookingtable.resources
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.fkbokingstable1.resources
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.insertuservalues.resources
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.updatedmodels.resources
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.updatedeventmodel.resources
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.Migrations.Reportadded.resources
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.csproj.GenerateResource.cache
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.csproj.CoreCompileInputs.cache
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.csproj.CopyComplete
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.dll
+D:\Event Managent System\EmsWebApi\EMS\EMSAPI\obj\Debug\EMSAPI.pdb

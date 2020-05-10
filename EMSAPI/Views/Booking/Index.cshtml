@@ -1,0 +1,85 @@
+﻿@model IEnumerable<EMSAPI.Models.Event>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body style="background-image : url('https://kinsta.com/wp-content/uploads/2020/04/wordpress-events-plugin-1.jpg')">
+    <h2>Events For booking</h2>
+
+    <div class="jumbotron jumbotron-fluid">
+        <div class="table-responsive">
+            <table class="table">
+                <tr class="active">
+                    <th>
+                        @Html.DisplayNameFor(model => model.EVENTNAME)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EVENTTYPE)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EVENTSTARTDATE)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EVENTENDDATE)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EVENTCOST)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EVENTMANAGEMENTCOST)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EVENTCONSULTANTCOST)
+                    </th>
+
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr class="active">
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EVENTNAME)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EVENTTYPE)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EVENTSTARTDATE)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EVENTENDDATE)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EVENTCOST)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EVENTMANAGEMENTCOST)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EVENTCONSULTANTCOST)
+                        </td>
+
+                        <td>
+                            @Html.ActionLink("Book", "Book", new { id = item.EVENTID }, new { @class = "btn btn-success"}) 
+                        </td>
+                    </tr>
+                }
+
+            </table>
+            </div>
+        </div>
+            <h3>@Html.ActionLink("Go to Bookings", "Bookings")</h3>
+            <h3>@Html.ActionLink("Back to Dashboard", "Index", "Login")</h3>
+
+</body>
+</html>
+
+
+

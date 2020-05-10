@@ -1,0 +1,88 @@
+﻿@model EMSAPI.Models.Event
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Event</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTNAME)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTNAME)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTTYPE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTTYPE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTSTARTDATE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTSTARTDATE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTENDDATE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTENDDATE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTCOST)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTCOST)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTMANAGEMENTCOST)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTMANAGEMENTCOST)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTCONSULTANTCOST)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTCONSULTANTCOST)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EVENTWALLET)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EVENTWALLET)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

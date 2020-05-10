@@ -1,0 +1,87 @@
+﻿@model IEnumerable<EMSAPI.Models.User>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body style="background-image : url('https://kinsta.com/wp-content/uploads/2020/04/wordpress-events-plugin-1.jpg')">
+    <h2>Users Data</h2>
+
+    <p>
+        @Html.ActionLink("Add New User", "Create")
+    </p>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="table-responsive">
+            <table class="table">
+                <tr class="active">
+                    <th>
+                        @Html.DisplayNameFor(model => model.USERID)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.USERNAME)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.GENDER)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.MOBILE)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EMAIL)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.USERTYPE)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.USERPASSWORD)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr class="active">
+                        <td>
+                            @Html.DisplayFor(modelItem => item.USERID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.USERNAME)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.GENDER)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MOBILE)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EMAIL)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.USERTYPE)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.USERPASSWORD)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.USERID }, new { @class = "btn btn-success" }) 
+                            @Html.ActionLink("Details", "Details", new { id = item.USERID }, new { @class = "btn btn-success" }) 
+                            @Html.ActionLink("Delete", "Delete", new { id = item.USERID }, new { @class = "btn btn-success" })
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+        </div>
+        <div>
+            @Html.ActionLink("Back to Index", "Index", "Login")
+        </div>
+</body>
+</html>
+
+

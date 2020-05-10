@@ -1,0 +1,97 @@
+﻿@model IEnumerable<EMSAPI.Models.Report>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body style="background-image : url('https://kinsta.com/wp-content/uploads/2020/04/wordpress-events-plugin-1.jpg')">
+    <h2>Reports and queries</h2>
+
+    <p>
+        @Html.ActionLink("New Report", "Create")
+    </p>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="table-responsive">
+            <table class="table">
+                <tr class="active">
+                    <th>
+                        @Html.DisplayNameFor(model => model.REPORTID)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.USERID)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.EMAIL)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ISSUE)
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr class="active">
+                        @if (Session["USERTYPE"].Equals("ADMIN"))
+                        {
+                            <td>
+                                @Html.DisplayFor(modelItem => item.REPORTID)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.USERID)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.EMAIL)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ISSUE)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.REPORTID }) |
+                                @Html.ActionLink("Details", "Details", new { id = item.REPORTID }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.REPORTID })
+                            </td>
+                        }
+                        @if (!Session["USERTYPE"].Equals("ADMIN") && Session["USERID"].ToString().Equals(item.USERID.ToString()))
+                        {
+                            <td>
+                                @Html.DisplayFor(modelItem => item.REPORTID)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.USERID)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.EMAIL)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ISSUE)
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.REPORTID }, new { @class = "btn btn-success" }) |
+                                @Html.ActionLink("Details", "Details", new { id = item.REPORTID }, new { @class = "btn btn-success" }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.REPORTID }, new { @class = "btn btn-success" })
+                            </td>
+                        }
+
+
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+
+    <div>
+        @Html.ActionLink("Back to Index", "Index", "Login")
+    </div>
+
+</body>
+</html>
+
+
+
