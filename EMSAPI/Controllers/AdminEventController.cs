@@ -11,11 +11,13 @@ namespace EMSAPI.Controllers
     public class AdminEventController : Controller
     {
         private EmsContext _context;
+
+        //Constructor for Admin Event controller class
         public AdminEventController()
         {
             _context = new EmsContext();
         }
-
+        // Dispose method for releasing unmanaged resources
         protected override void Dispose(bool disposing)
         {
             _context.Dispose();
@@ -26,12 +28,12 @@ namespace EMSAPI.Controllers
         {
             return View(_context.Events.ToList());
         }
-
+        //Get method for adding events.
         public ActionResult Create()
         {
             return View();
         }
-
+        //post method for adding events.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(Event events)
@@ -48,7 +50,7 @@ namespace EMSAPI.Controllers
             }
             return View(events);
         }
-
+        // Edit method for checking event id for validation.
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -63,7 +65,7 @@ namespace EMSAPI.Controllers
             }
             return View(events);
         }
-
+        // Edit method for editing books if books were aready added after it will redirect to index page of Admin Event.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(Event events)
@@ -80,7 +82,7 @@ namespace EMSAPI.Controllers
             }
             return View(events);
         }
-
+        // Details method for checking event id for validation.
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -96,7 +98,7 @@ namespace EMSAPI.Controllers
             return View(events);
 
         }
-
+        // Delete method for checking event id for validation.
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -112,7 +114,7 @@ namespace EMSAPI.Controllers
             return View(events);
 
         }
-
+        //Delete method if event id is correct then after deleting it will redirect to index page of event controller.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id)

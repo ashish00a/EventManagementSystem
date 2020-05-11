@@ -11,13 +11,13 @@ namespace EMSAPI.Controllers
     public class BookingController : Controller
     {
         private EmsContext _context;
-
+        //Constructor for Booking Controller controller class
         public BookingController()
         {
             _context = new EmsContext();
         }
 
-
+        // Dispose method for releasing unmanaged resources
         protected override void Dispose(bool disposing)
         {
             _context.Dispose();
@@ -28,7 +28,8 @@ namespace EMSAPI.Controllers
 
             return View(_context.Events.ToList());
         }
-
+        //Book method for adding and validating books by their book id and if it is valid book will be added to the database
+        //and it status will be PENDING.
         public ActionResult Book(int? id)
         {
             if (id == null)
@@ -56,7 +57,7 @@ namespace EMSAPI.Controllers
             return View(_context.Bookings.ToList());
         }
 
-
+        //Cancel method for cancelling books using their booking id.
         public ActionResult Cancel(int? id)
         {
             if (id == null)
@@ -70,7 +71,7 @@ namespace EMSAPI.Controllers
             }
             return View(Book);
         }
-
+        //cencel method for cancel booking, if only payment status is pending.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Cancel(int id)
@@ -85,7 +86,7 @@ namespace EMSAPI.Controllers
             return View(book);
 
         }
-
+        //Details method for showing the detail of the booking.
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -100,7 +101,7 @@ namespace EMSAPI.Controllers
 
             return View(Book);
         }
-
+        
         public ActionResult Payment(int? id)
         {
             if (id == null)
@@ -139,7 +140,8 @@ namespace EMSAPI.Controllers
             //}
             return View(events);
         }
-
+        //payment method for making the payment of pending bookings it will also checkthe user type if user is manager then
+        //only manager payment amount can be paid and like wise for others also.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Payment(Event es)

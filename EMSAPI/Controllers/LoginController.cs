@@ -23,12 +23,14 @@ namespace EMSAPI.Controllers
             }
             
         }
-
+        // Get method for register
         public ActionResult Register()
         {
             return View();
         }
 
+
+        //post method for register, sending data using post method.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Register(User user)
@@ -48,11 +50,14 @@ namespace EMSAPI.Controllers
             }
             return View(user);
         }
+
+        //get method for login
         public ActionResult Login()
         {
             return View();
         }
 
+        //post method for login
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Login(User user)

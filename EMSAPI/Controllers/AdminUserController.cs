@@ -11,13 +11,13 @@ namespace EMSAPI.Controllers
     public class AdminUserController : Controller
     {
         private EmsContext _context;
-        
+        //Constructor for Admin User controller class
         public AdminUserController()
         {
             _context = new EmsContext();
         }
 
-
+        // Dispose method for releasing unmanaged resources
         protected override void Dispose(bool disposing)
         {
             _context.Dispose();
@@ -28,7 +28,7 @@ namespace EMSAPI.Controllers
             
             return View(_context.Users.ToList());
         }
-
+        //Get method for adding users.
         public ActionResult Create()
         {
             return View();
@@ -65,7 +65,7 @@ namespace EMSAPI.Controllers
             }
             return View(user);
         }
-
+        // Edit method for editing users if users were aready added only for admin.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(User user)
@@ -114,7 +114,7 @@ namespace EMSAPI.Controllers
             return View(user);
 
         }
-
+        //Delete method if event id is correct then after deleting it will redirect to index page of Admin User controller.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id)

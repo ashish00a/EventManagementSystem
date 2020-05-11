@@ -11,13 +11,13 @@ namespace EMSAPI.Controllers
     public class AdminReportController : Controller
     {
         private EmsContext _context;
-
+        //Constructor for Admin Report controller class
         public AdminReportController()
         {
             _context = new EmsContext();
         }
 
-
+        // Dispose method for releasing unmanaged resources
         protected override void Dispose(bool disposing)
         {
             _context.Dispose();
@@ -28,7 +28,7 @@ namespace EMSAPI.Controllers
 
             return View(_context.Reports.ToList());
         }
-
+        //Get method for adding report.
         public ActionResult Create()
         {
             return View();
@@ -50,7 +50,7 @@ namespace EMSAPI.Controllers
             }
             return View(report);
         }
-
+        // Edit method for checking report id for validation.
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -65,7 +65,7 @@ namespace EMSAPI.Controllers
             }
             return View(report);
         }
-
+        // Edit method for editing reports if reports were aready added.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(Report report)
@@ -82,7 +82,7 @@ namespace EMSAPI.Controllers
             }
             return View(report);
         }
-
+        // Details method for checking report id for validation.
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -98,7 +98,7 @@ namespace EMSAPI.Controllers
             return View(report);
 
         }
-
+        // Delete method for checking report id for validation.
         public ActionResult Delete(int? id)
         {
             if (id == null)
@@ -114,7 +114,7 @@ namespace EMSAPI.Controllers
             return View(report);
 
         }
-
+        //Delete method if report id is correct then after deleting it will redirect to index page of Admin Report controller.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id)
